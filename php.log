@@ -24,3 +24,25 @@
 [27-Mar-2025 16:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rory/Desktop/CSRF-PHP/poll.php:6) in /home/rory/Desktop/CSRF-PHP/poll.php on line 8
 [27-Mar-2025 16:30:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rory/Desktop/CSRF-PHP/poll.php:6) in /home/rory/Desktop/CSRF-PHP/poll.php on line 8
 [27-Mar-2025 16:33:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rory/Desktop/CSRF-PHP/poll.php:6) in /home/rory/Desktop/CSRF-PHP/poll.php on line 8
+[27-Mar-2025 17:25:51 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/rory/Desktop/CSRF-PHP/poll.php on line 4
+[27-Mar-2025 17:25:51 UTC] PHP Warning:  Trying to access array offset on null in /home/rory/Desktop/CSRF-PHP/poll.php on line 4
+[27-Mar-2025 17:27:05 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/rory/Desktop/CSRF-PHP/results.php on line 14
+[27-Mar-2025 17:27:59 UTC] PHP Warning:  Undefined array key "username" in /home/rory/Desktop/CSRF-PHP/results.php on line 5
+[27-Mar-2025 17:27:59 UTC] PHP Warning:  Undefined array key "username" in /home/rory/Desktop/CSRF-PHP/results.php on line 5
+[27-Mar-2025 17:27:59 UTC] PHP Warning:  Undefined array key "username" in /home/rory/Desktop/CSRF-PHP/results.php on line 5
+[27-Mar-2025 17:27:59 UTC] PHP Warning:  Undefined array key "username" in /home/rory/Desktop/CSRF-PHP/results.php on line 5
+[27-Mar-2025 17:27:59 UTC] PHP Warning:  Undefined array key "username" in /home/rory/Desktop/CSRF-PHP/results.php on line 5
+[27-Mar-2025 17:50:22 UTC] PHP Warning:  file(votes.txt): Failed to open stream: No such file or directory in /home/rory/Desktop/CSRF-PHP/results.php on line 3
+[27-Mar-2025 17:50:22 UTC] PHP Warning:  foreach() argument must be of type array|object, false given in /home/rory/Desktop/CSRF-PHP/results.php on line 3
+[27-Mar-2025 17:50:46 UTC] PHP Warning:  Undefined array key 1 in /home/rory/Desktop/CSRF-PHP/results.php on line 4
+[27-Mar-2025 17:50:50 UTC] PHP Warning:  Undefined array key 1 in /home/rory/Desktop/CSRF-PHP/results.php on line 4
+[27-Mar-2025 17:50:53 UTC] PHP Warning:  Undefined array key 1 in /home/rory/Desktop/CSRF-PHP/results.php on line 4
+[27-Mar-2025 17:51:23 UTC] PHP Warning:  Undefined array key 1 in /home/rory/Desktop/CSRF-PHP/results.php on line 4
+[27-Mar-2025 17:51:29 UTC] PHP Warning:  Undefined array key 1 in /home/rory/Desktop/CSRF-PHP/results.php on line 4
+[27-Mar-2025 17:51:38 UTC] PHP Warning:  Undefined array key 1 in /home/rory/Desktop/CSRF-PHP/results.php on line 4
+[27-Mar-2025 17:54:11 UTC] PHP Warning:  Undefined array key 1 in /home/rory/Desktop/CSRF-PHP/results.php on line 4
+[27-Mar-2025 17:55:00 UTC] PHP Warning:  Undefined array key 1 in /home/rory/Desktop/CSRF-PHP/results.php on line 4
+[27-Mar-2025 17:56:07 UTC] PHP Warning:  Undefined array key 1 in /home/rory/Desktop/CSRF-PHP/results.php on line 4
+[27-Mar-2025 18:13:00 UTC] PHP Warning:  Undefined array key "token" in /home/rory/Desktop/CSRF-PHP/results.php on line 11
+[27-Mar-2025 18:16:20 UTC] PHP Warning:  Undefined array key "token" in /home/rory/Desktop/CSRF-PHP/results.php on line 11
+[27-Mar-2025 18:16:27 UTC] PHP Warning:  Undefined array key "token" in /home/rory/Desktop/CSRF-PHP/results.php on line 11

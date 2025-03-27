@@ -1,4 +1,7 @@
-hello, Blue<br>
-Bruh, Green<br>
-list, Blue<br>
-test, Blue<br>
+ThisIsNew, Red<br>
+test, Red<br>
+bruh, Green<br>
+saas, Red<br>
+zayne, Red<br>
+testing, Green<br>
+dsflsdfl,l;sdfl;sfdl;kd, Red<br>

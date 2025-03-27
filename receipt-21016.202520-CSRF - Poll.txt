@@ -1,0 +1,8 @@
+Your submission was successful!
+Course: 21016.202520, COMP-4420-001 202520
+Assessment: CSRF - Poll
+
+Submission date: 3/27/25, 2:23 PM
+Submission size: 1.5 KB
+Submitter: XXXXX XXXXX
+Confirmation number: 478d0ce924e948f6b5ba41f69b6ee2d4
